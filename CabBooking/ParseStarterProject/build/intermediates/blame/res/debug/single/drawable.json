@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\clogo.png",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\src\\main\\res\\drawable\\clogo.png"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.6.1\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cab.png",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\src\\main\\res\\drawable\\cab.png"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\tp.png",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\src\\main\\res\\drawable\\tp.png"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    }
+]

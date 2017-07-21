@@ -1,0 +1,91 @@
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:id="@+id/rl">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/bg"
+        android:scaleType="centerCrop"
+        android:layout_alignParentStart="true"
+        android:id="@+id/imageView2"
+        android:layout_alignParentTop="true" />
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/clogo"
+        android:layout_marginTop="60dp"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        />
+
+    <Switch
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/switch1"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rider"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:layout_marginEnd="11dp"
+        android:id="@+id/textView"
+        android:layout_alignBottom="@+id/switch1"
+        android:layout_toStartOf="@+id/switch1"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Driver"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"
+        android:id="@+id/textView2"
+        android:layout_alignBottom="@+id/switch1"
+        android:layout_toEndOf="@+id/switch1"
+        android:layout_marginStart="13dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Started"
+        android:background="#FFFFFF"
+        android:layout_below="@+id/switch1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:id="@+id/button2"
+        android:padding="10dp"
+        android:onClick="getStarted"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/tp"
+        android:layout_below="@+id/button2"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="89dp"
+        android:id="@+id/imageView3"
+        android:alpha="0.7"
+        android:layout_alignParentBottom="true"
+        />
+
+</RelativeLayout>

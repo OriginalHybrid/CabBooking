@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_request.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\src\\main\\res\\layout\\activity_view_request.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_driver_location.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\src\\main\\res\\layout\\activity_driver_location.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\HP\\AndroidStudioProjects\\CabBooking\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    }
+]
